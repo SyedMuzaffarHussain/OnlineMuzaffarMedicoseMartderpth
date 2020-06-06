@@ -1,0 +1,1216 @@
+/*-------- Coding of Search Navigation from here-------------------------------------------------------------------------------------------------------------------------- */
+
+.id{
+    background-color: #2395CA !important;
+}
+.id1{
+    background-color: #c7defa!important;
+    
+}
+
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/*---------- Coding of Navigation bar from here----------------------------------------------------------------------------------------------------------------------- */
+
+#color{
+    background-color: white !important;
+}
+.mr-auto{
+    margin-left: 20px !important;   
+}
+.mr-auto1{
+    margin-left: -10px !important;   
+}
+.margine{
+    margin-top: 8px !important;
+  
+}
+.size{
+    width: 800px;
+    height: 300px;
+    margin-top: 30px !important;
+}
+
+.sizea{
+    width: 300px !important;
+    height: 150px !important;
+    margin-top: 30px !important;
+}
+.sizeb{
+    margin-top: 30px !important;
+}
+
+
+.mr-lefty{
+    margin-left: -300px !important;
+}
+/* .hover li:hover>a{
+    background-color: blue !important;
+} */
+
+
+/*---------- Coding for Hover effect from here----------------------------------------------------------------------------------------------------------------------- */
+
+.hover ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    border-radius: 20px;
+    z-index: 5;
+}
+.hover ul li a:hover{
+    background-color: #316DC3 ;
+    color: white;    
+}
+.wtheight{
+    width: 280px;
+    height: 80px;
+}
+.blk:hover{
+    color: white !important;
+}
+/* -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+ /*----------------------- Coding for setting Image of Medicos Mart--------------------------------------------------------------------------------------------------------------------------------------------- */
+.wtheight{ 
+    margin-left: 40px !important ;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/* .color1{
+    background-color: brown !important;
+} */
+.mr-left{
+    /* margin-right:90px ; */
+    width: 40px ;
+    height: 40px;
+}
+/* .mr-left1{
+    margin-left: px !important;
+    width: 40px;
+    height: 40px;
+} */
+.mr-left{
+    /* margin-left: 80px; */
+    width: 40px ;
+    height: 40px;
+}
+
+/* Coding for bold letter in navigation bar of home------------------------------------------------------------------------------------------------ */
+.blk{
+    font-weight: bold;
+}
+
+
+
+
+/*--------------------------- Coding of form from here-------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+.fieldset,.form{
+    position: fixed;
+    font-size: 30px;
+    color: white;
+}
+
+.fmin{
+    padding: 5px 5px 5px 20px;  
+    width: 100px;
+    height: 30px;
+}
+
+.fmin1{
+    
+    width: 200px;
+    height: 20px;
+}
+.fmin2{
+    padding: 5px 5px 5px 30px;
+    width: 200px;
+    height: 20px;
+}
+.fmin3{
+    padding: 2px 1px 2px 60px;
+    width: 200px;
+    height: 20px;
+}
+.fmin4{
+    width: 200px;
+    height: 20px;  
+}
+.fmin5{
+    width: 200px;
+    height: 20px;  
+}
+.fieldset{
+    border: 1px solid grey;
+    width: 400px;
+    height: 400px;
+    position: fixed;
+    margin-top: 120px;
+    margin-bottom: 400px;
+    margin-left: 440px;
+    margin-right: 400px;
+    border-radius: 15px;
+    background-color: #316DC3;
+    box-shadow: 3px 2px 3px 4px gray;
+}
+legend{
+    background-color: grey;
+    border-radius: 5px;
+}
+.textd{
+    text-decoration: none;
+    color: white;
+}
+.textd:hover{
+    color: skyblue;
+}
+.back{
+    background-image: url(Image/medical-background-in-blue-vector.jpg);
+    background-size: cover;
+}
+
+/*------ Coding for Image Slider from here -------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.cover1{
+  
+    height: 460px !important;
+    
+}
+
+/*---------Coding of Medicine Display wwith small slider--------------------------------------------------------------------------------------------------------------------------------------- */
+
+.Display{
+    background-color: #F2F3F7;
+    height: 600px !important;
+    margin-top: -20px !important;
+   padding-top: 20px !important;
+}
+.bord{
+    background-color: #F2F3F7;
+    height: 500px;
+    margin: 20px 70px 20px 70px;
+    /* border: 1px solid black; */
+    z-index: 5 !important;
+}
+.siz1{
+    height: 300px;
+    width: 50px;
+    
+}
+.siz2{
+    
+    height: 300px;
+    width: 30px;
+    
+    
+}
+.siz3{
+    margin-top: 0px !important;
+    height: 300px !important;
+    width: 25px !important;
+    border-radius: 16px !important;
+    
+}
+
+.siz5{
+    border-radius: 16px !important;
+    margin-top: 0px !important;
+    height: 300px !important;
+    width: 20px !important;
+    
+}
+
+.cg{
+    border-radius: 16px !important;
+    background-color: white !important;8
+    width: 650px !important;
+    height: 300px !important;
+    margin-left: 40% !important;
+    margin-top: 10px !important;
+    margin-right: 30px !important;
+    
+}
+.shad{
+    box-shadow: 2px 2px 13px 4px silver !important;
+    border-radius: 16px !important;
+}
+/*---- Coding for product which is below the small slider---------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.product{
+    border-radius: 16px !important;
+    margin-top: 15px !important;
+    width: 675px !important;
+    height: 145px !important;
+    background-color: #2395CA !important;
+    padding-top: 10px !important;
+    margin-right: 40px !important;
+    box-shadow: 2px 2px 13px 4px silver !important;
+}
+.imga{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle{
+    
+    margin-top:10px !important;
+    margin-left: 10px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px; 
+
+}
+.circle :hover{
+    background-color: white !important;
+    opacity: 0.6;
+    
+}
+.z1{
+    margin-left: 40px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+.imgb{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle1{
+    
+    margin-top:-125px !important;
+    margin-left: 115px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px;
+   
+}
+.circle1 :hover{
+    background-color: white !important;
+    opacity: 0.6;
+}
+.z2{
+    margin-left: 120px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+.imgc{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle2{
+    
+    margin-top:-125px !important;
+    margin-left: 220px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.circle2 :hover{
+    background-color: white !important;
+    opacity: 0.6;
+}
+.z3{
+    margin-left: 250px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+.imgd{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle3{
+    
+    margin-top:-130px !important;
+    margin-left: 330px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.circle3 :hover{
+    background-color: white !important;
+    opacity: 0.6;
+}
+.z4{
+    margin-left: 350px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+.imge{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle4{
+    
+    margin-top:-125px !important;
+    margin-left: 440px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.circle4 :hover{
+    background-color:  white !important;
+    opacity: 0.6;
+}
+.z5{
+    margin-left: 450px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.imgf{
+    width: 95px !important;
+    height: 95px !important;
+    border-radius: 50% !important;
+    z-index: 5 !important;
+}
+.circle5{
+    
+    margin-top:-125px !important;
+    margin-left: 550px !important;
+    width: 100px !important;
+    height: 100px !important;
+    background-color: white !important;
+    border-radius: 50% !important;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+.circle5 :hover{
+    background-color: white !important;
+    opacity: 0.6;
+}
+.z6{
+    margin-left: 580px;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+
+
+
+/* Coding For Medicine Market Portion-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.Market{
+    background-color: white !important;
+    width:410px !important ;
+    height:500px !important;
+    margin-top: -300px !important;
+    border-radius: 16px !important;
+    margin-left: 5px !important;
+    box-shadow: 2px 2px 13px 4px silver !important;
+}
+.index{
+    z-index: 5 !important;
+    
+  
+}
+#index1{
+    width: 500px !important;
+    height: 300px !important;
+}
+.mymedicine{
+    margin-left: 65px !important;
+    padding-top: 10px !important;
+    margin-bottom: 10px !important;
+    font-weight: bold !important;
+    color: #2395CA !important;
+    text-shadow: 2px 2px 4px black;
+}
+/* -------For button---------------------------------------------------------------------------------------------------------------------- */
+.split1{
+    height: 50px !important;
+    width: 360px !important;
+    /* box-shadow: 2px 3px 4px 3px grey !important; */
+    background-color: white !important;
+    margin-left: 10px !important;
+}
+.sp1{
+    background-color:  white !important;
+}
+.beaut1{
+    font-weight: bold !important;
+    color: black !important;
+    text-shadow: 2px 2px 4px silver;
+}
+.beaut2{
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 10px !important;
+}
+.beaut3{
+    width: 50px !important;
+    height: 40px !important;
+    padding-right: 20px !important;
+    /* margin-right: 10px !important; */
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+/*------Coding for Model box--------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.model{    
+    height: 480px;
+    background-color: white;
+    padding-top: 75px;
+    padding-right: 50px;
+    padding-left: 70px;
+}
+
+
+
+/* Apply Media Query on best recommended Product of Covid-19 from here--------------------------------------------------------------------------------------------------------------------------- */
+
+
+@media only screen and (max-width: 576px){
+    .ht{
+        height: 1070px !important;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .my{
+      margin-left: -10px !important;
+      margin-right: 100px !important;
+      /* width: 200px;
+      height: 200px; */
+      margin-top: -40px !important;
+      margin-bottom: 50px !important;
+      width: 40px;
+      height: 130px;
+    }
+  }
+@media only screen and (max-width:576){
+    .my3{
+        margin-left: -10px !important;
+        margin-right: 100px !important;
+        /* width: 200px;
+        height: 200px; */
+        margin-top: -40px !important;
+        width: 40px !important;
+        height: 130px !important;
+    }
+}
+@media only screen and (max-width:576){
+    .my5{
+        margin-left: -10px !important;
+        margin-right: 100px !important;
+        /* width: 200px;
+        height: 200px; */
+        margin-top: -40px !important;
+        width: 40px;
+        height: 130px;
+    }
+}
+@media only screen and (max-width:576){
+    .my4{
+        width: 40px;
+        height: 130px;
+    }
+}
+  @media only screen and (max-width: 576px) {
+    .my1{
+        font-size: 19px;
+       /* padding-bottom: 120px !important; */
+       margin-left: -40px !important;
+       /* width: 200px;
+       height: 200px; */
+      
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    .my2{
+        margin-top: -40px !important;
+       margin-bottom: 60px !important;             
+    }
+  }
+
+
+
+  /* Apply Media Query on best recommended Product of Covid-19 from here----------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+/* Coding for Covid-19 Product--------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.mode2{   
+    /* margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px; */
+    /* height: 500px;
+    width: 1120px; */
+    margin-left: 25px;
+    height:300px ;
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 13px 4px silver !important;
+}
+.up1{
+    margin-top: -25px !important;
+    padding-bottom: 35px;
+    font-weight: bold !important;
+    color: black !important;
+    text-shadow: 2px 2px 4px silver;
+}
+
+.container{
+    position: relative;
+    width: 50%;
+  }
+  
+  .imageQ {
+    display: block;
+    width: 350px;
+    height: 300px;
+    margin-left: -15px;
+    border-radius: 20px;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    width: 350px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+    border-radius: 20px;
+  }
+  
+  .container:hover .overlay {
+    opacity: 1;
+  }
+  
+  .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.mode3{   
+
+    margin-left: 390px;
+    margin-top: -300px;
+    height:300px ;
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 13px 4px silver !important;
+}
+
+.container1 {
+    position: relative;
+    width: 50%;
+  }
+  
+  .imageQ1 {
+    display: block;
+    width: 350px;
+    height: 300px;
+    margin-left: 0px;
+    border-radius: 20px;
+    
+  }
+  
+  .overlay1 {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    width: 350px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+    border-radius: 20px;
+    
+  }
+  
+  .container1:hover .overlay1 {
+    opacity: 1;
+  }
+  
+  .text1 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  /* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ */
+
+  .mode4{   
+
+    margin-left: 760px;
+    margin-top: -300px;
+    height:300px ;
+    width: 350px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 13px 4px silver !important;
+}
+
+.container2 {
+    position: relative;
+    width: 50%;
+  }
+  
+  .imageQ2 {
+    display: block;
+    width: 350px;
+    height: 300px;
+    margin-left: 0px;
+    border-radius: 20px;
+    
+  }
+  
+  .overlay2 {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    width: 350px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #008CBA;
+    border-radius: 20px;
+    
+  }
+  
+  .container2:hover .overlay2 {
+    opacity: 1;
+  }
+  
+  .text2 {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  /*-----Start Coding of New Arrival Product from here-------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.arrival1{
+    height: 640px;
+    background-color: white;
+    padding-top: 75px;
+    padding-right: 50px;
+    padding-left: 40px;
+    
+}
+.arr h1{
+    margin-top: -30px !important;
+    margin-bottom: 30px !important;
+}
+
+
+/* Stating Point of Card Coding from here---------------------------------------------------------------------------------------------------------------------------------------------------- */
+.card{
+    width: 240px;
+    height: 480px !important;
+    box-shadow: 2px 2px 13px 4px silver !important;
+    
+}
+/* Coding of Shopping Cart Icon in Add to cart button----------------------------------------------------------------------- */
+.ico{
+  width: 20px !important;
+  height: 20px !important;
+  margin-right: 10px !important;  
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------- */
+.mrg1{
+    margin-left: 5px !important;
+    
+}
+.mrg2{
+    margin-left: 5px !important;
+}
+.mrg3{
+    margin-left: 5px !important;
+}
+.mrg4{
+    margin-left: -10px;
+}
+.card-text{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+}
+.checked {
+    color: orange; 
+  }
+.chy{
+    margin-top: -15px !important;
+} 
+
+/* Media Query from here------------------------------------------------------------- */
+@media only screen and (max-width: 576px) {
+    .tw{
+      margin-left: 100px !important;
+      margin-bottom: 20px !important;
+    }
+  }
+
+@media only screen and (max-width: 576px){
+    .abc{
+        height: 2650px !important;
+    
+    }
+}
+.up2{
+    /* margin-top: -25px !important;
+    padding-bottom: 35px; */
+    font-weight: bold !important;
+    color: #008CBA !important;
+    text-shadow: 2px 2px 4px black;
+}
+/* End Point of Media Query------------------------------------------------------------------------------------------- */
+  /* End Point of Card Coding from here--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+  /*--------------- End Coding of New Arrival Product from here--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+/* This is for second card-------------------------------------------------------------------------------- */
+.abd{
+    margin-top: -70px !important;
+}
+
+/* This is for third card---------------------------------------------------------------------------------------------------------------- */
+.abs{
+    margin-top: -120px !important;
+}
+
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+.hov:hover{
+    box-shadow: 2px 2px 13px 2px grey !important;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+.betw{
+    z-index: 5;
+    margin-top: -12px !important;
+   background-color: #2395CA !important;
+   height: 600px !important;
+   opacity: 0.4;
+   /* background-image: url(https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/chloroquine_coronavirus_other/1800x1200_chloroquine_coronavirus_other_alt.jpg); */
+   background-size: cover;
+   /* width:"1262px";     */
+   position: relative !important;
+}
+
+
+
+
+
+/* Coding for Zooming in New Trending  Product Card----------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+.zoom {
+    /* padding: 50px;
+    background-color: green; */
+    transition: transform .2s; /* Animation */
+    width: 240px;
+    height: 280px;
+    /* margin: 0 auto; */
+    
+  }
+  
+  .zoom:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+  /* Ending of Trending Product--------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+  .zoom1 {
+    /* padding: 50px;
+    background-color: green; */
+    transition: transform .1s; /* Animation */
+    /* width: 80px; */
+    /* height: 80px; */
+    /* margin: 0 auto; */
+    
+  }
+  
+  .zoom1:hover {
+    transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+
+/* -----Coding For Marqee of trending product 2---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+.Marqee{
+    background-color: #2395CA;
+    margin-top: 20px;
+    color: white;
+}
+.margw{
+    margin-top: 2px !important;
+    font-weight: bold;
+}
+
+/* Ending For Marqee of trending product 2------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+.fot{
+    background-color: #00183C !important;
+    height: 500px !important;
+    padding-top: 60px;
+}
+.wht{
+    color: white; 
+       
+}
+.wht1{
+    color: white; 
+    margin-left: 50px !important;
+    margin-right: 50px !important;   
+}
+.und{
+    color: white;
+}
+.lin{
+    background-color: silver;
+    width: 1100px;
+    height: 3px;
+}
+.social{
+    margin-top: 5px !important;
+    margin-left: 60px !important;
+    width:50px;
+    height: 50px;
+ 
+}
+.sty:hover{
+      background-color: white !important;
+      opacity: 0.4;
+      border-radius: 30px !important;
+      
+}
+.sty1:hover{
+    background-color: white !important;
+    opacity: 0.4;
+    border-radius: 40px !important;
+    /* width: 50px;
+    height: 50px; */
+    
+}
+.lefta{
+    margin-left: 65px !important;
+    margin-top: -85px !important;
+}
+.leftb{
+    margin-left: 135px !important;
+    margin-top: -135px !important;
+}
+.leftc{
+    
+    margin-left: 205px !important;
+    margin-top: -180px !important;
+}
+.store{
+    margin-top: 20px !important;
+    margin-left: 70px !important;
+    color: white;
+}
+.store1{
+    margin-top: -40px !important;
+    margin-left: 360px !important;
+    color: white;
+}
+
+/*----- Coding for Opening Timing Starting from here--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+.Mon{
+    color: white !important;
+    margin-top: -40px !important;
+    margin-left: 360px !important;
+}
+.Mon1{
+    color: white !important;
+    margin-top: 5px !important;
+    margin-left: 360px !important;
+}
+.Mon2{
+    color: white !important;
+    margin-top: 10px !important;
+    margin-left: 360px !important;
+}
+.Mon3{
+    color: white !important;
+    margin-top: 20px !important;
+    margin-left: 360px !important;
+}
+@media only screen and (max-width: 576px) {
+    .foot{
+      margin-top: 160px !important;
+      margin-left: -280px !important;
+      /* margin-bottom: 20px !important; */
+      /* margin-bottom: 50px !important; */
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .foot5{
+      margin-top: 140px !important;
+      margin-left: -280px !important;
+      /* margin-bottom: 20px !important; */
+      /* margin-bottom: 50px !important; */
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .foot1{
+       height: 800px !important;
+      
+      /* margin-bottom: 20px !important; */
+      /* margin-bottom: 50px !important; */
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .foot2{
+       margin-top: -110px !important;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .foot6{
+       width: 450px !important;
+    }
+  }
+  .ec{
+      background-color: #111111 !important;
+      height: 50px !important;
+      color: white !important;
+      padding-top: 10px !important;
+      padding-left: 30px !important;
+  }
+  
+/* End Point of Opening Timing ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+/*------ Coding of Syrup page from here---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
+.syp{
+    background-color: #2395CA !important;
+    height: 90px !important;
+    margin-top: -25px !important;
+    
+    
+}
+.syp1{
+    width: 230px !important;
+    height: 90px !important;
+}
+.qwa{
+    color: white !important;
+    font-weight: bold;
+}
+@media only screen and (max-width: 576px) {
+    .sypa{
+       /* margin-left: 20px !important;
+       color: black !important; */
+       width: 500px !important;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .sypb{
+       /* margin-left: 20px !important;
+       color: black !important; */
+       width: 100px !important;
+       height: 100px !important;
+       margin-top: -14px !important;
+       margin-left: -70px !important;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .sypc{
+       margin-left: 60px !important;
+       margin-top: 0px !important;
+    }
+  }
+
+
+
+
+
+  @media only screen and (max-width: 576px) {
+    #blow{
+       margin-top: 20px !important;
+      
+    }
+  }
+  /* @media only screen and (max-width: 576px) {
+    #blow1{
+       color: black !important;    
+    background-color: blue !important;  
+    border-radius: 0px !important;
+    width: 400px !important;
+    
+    }
+  } */
+  @media only screen and (max-width: 576px) {
+    #blow2{
+    
+     margin-left: -120px !important;
+     /* color: black !important;     */
+     background-color: skyblue !important;  
+     border-radius: 0px !important;
+     width: 500px !important;
+     
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    #blow3{
+        margin-left: -110px !important;
+        /* color: black !important;     */
+        background-color: skyblue !important;  
+        border-radius: 0px !important;
+        width: 500px !important;
+        
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    .blow4{
+        margin-top: -5px !important;
+        text-align: center !important;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    #blow3:hover{
+      color: blue !important;
+    }
+  }
+  @media only screen and (max-width: 576px) {
+    #blow2:hover{
+      color: blue !important;
+    }
+  }
+  /* @media only screen and (max-width: 576px) {
+    .navbar-light{
+      margin-left: 10px !important;      
+    }
+  } */
+
+
+
+
+
+
+
+.app{
+    margin-top: -115px !important;
+}
+.app1{
+    margin-top: -30px !important;
+}
+
+
+
+
+/* Ending of syrup page from here----------------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
